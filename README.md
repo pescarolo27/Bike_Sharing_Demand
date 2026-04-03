@@ -1,3 +1,5 @@
+# Bike Sharing Demand (Python)
+
 **Background:** A bike-sharing startup has just hired you as their data analyst. The business is scaling quickly, but the demand fluctuates a lot. This means that there are not enough usable bikes available on some days, and on other days there are too many bikes. If the company could predict demand in advance, it could avoid these situations.
 
 **Purpose:** The project associated with this report used data consisting of the number of public bikes rented in Seoul's bike sharing system at each hour. The dataset also included information about the weather, time, & other variables such as whether it was a public holiday. Objectives of the analysis included:
