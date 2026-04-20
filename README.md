@@ -8,4 +8,4 @@
 
 **The Data:** The data used in this project pertained to the number of public bikes rented in Seoul's bike sharing system at each hour. The dataset also included information about the weather, time, & other parameters such as whether it was a public holiday. The data spanned from December 1, 2017, through November 30, 2018, which accounts for 365 days. There are 8760 observations, one for each hour of every day. There are no missing values in the dataset.
 
-Machine learning was applied in this project.
+The project was done in early 2024. Machine learning was applied in this project.
